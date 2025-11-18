@@ -22,8 +22,8 @@ project/
 1. **Python 3.8+ szükséges**
 2. A repository klónozása:
    ```bash
-   git clone https://github.com/felhasználó/projekt-neve.git
+   git clone https://github.com/AtiMann/Nginx_Log_Analyzer
    cd projekt-neve
 
 ## Futtatás
-**python analyzer.py**
+**analyzer.py**
