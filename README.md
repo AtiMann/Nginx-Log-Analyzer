@@ -8,13 +8,13 @@ Ez a Python-script egy Nginx logfájlt elemez, és statisztikákat készít a k�
 - Top 5 User-Agent
 - Az eredményeket konzolra írja és `stat.csv` fájlba menti
 
-## Projekt Felépítése
+# Projekt Felépítése
 
 project/
--│── analyzer.py
--│── stat.csv (futás után jön létre)
--│── README.md
--└── .gitignore
+│── analyzer.py
+│── stat.csv (futás után jön létre)
+│── README.md
+└── .gitignore
 
 
 ## ⚙️ Telepítés
