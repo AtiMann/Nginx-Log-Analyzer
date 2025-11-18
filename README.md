@@ -23,7 +23,8 @@ project/
 2. A repository klónozása:
    ```bash
    git clone https://github.com/AtiMann/Nginx_Log_Analyzer
-   cd projekt-neve
+   cd Nginx_Log_Analyzer
 
 ## Futtatás
-**analyzer.py**
+**python analyzer.py
+**
