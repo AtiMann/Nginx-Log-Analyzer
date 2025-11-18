@@ -26,5 +26,4 @@ project/
    cd projekt-neve
 
 ## Futtatás
-
-1. **python analyzer.py**
+**python analyzer.py**
